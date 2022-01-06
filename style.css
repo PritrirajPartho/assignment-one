@@ -1,7 +1,32 @@
 body{
     font-family: 'Poppins', sans-serif;
 font-family: 'Yeseva One', cursive;
+    margin: 10%;
 }
-#tiger{
+#mam{
     color: coral;
+}
+.lion{
+    display: flex;
+}
+.wolf{
+    width: 50%;
+    padding-top: 10%;
+}
+.wolf img{
+        width: 70%;
+        padding-bottom: 50%;
+}
+#kam{
+    font-size: 50px;
+}
+#sam{
+    text-decoration: none;
+    background-color: rgb(3, 250, 196);
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+}
+#bam{
+    color: white;
 }
