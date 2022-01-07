@@ -8,25 +8,36 @@ font-family: 'Yeseva One', cursive;
 }
 .lion{
     display: flex;
+    padding-bottom: 0%;
 }
 .wolf{
     width: 50%;
-    padding-top: 10%;
 }
 .wolf img{
         width: 70%;
-        padding-bottom: 50%;
+        
+        
 }
 #kam{
     font-size: 50px;
 }
-#sam{
+.cat{
     text-decoration: none;
-    background-color: rgb(3, 250, 196);
+    background-color: rgb(39, 88, 223);
     padding: 10px 20px;
-    border-radius: 5px;
-    
+    border-radius: 10px;
+    font-size: 20px;
+}
+.dog{
+    color: white;
+}
+#ram{
+    text-align: center;
+    font-size: 50px;
 }
 #bam{
-    color: white;
+    color: coral;
+}
+.bear{
+    display: flex;
 }
