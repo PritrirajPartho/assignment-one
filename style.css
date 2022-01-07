@@ -1,9 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 font-family: 'Yeseva One', cursive;
-    margin: 10%;
+    margin: 5%;
 }
-#mam{
+.bird{
     color: coral;
 }
 .slion{
@@ -15,8 +15,6 @@ font-family: 'Yeseva One', cursive;
 }
 .wolf img{
         width: 70%;
-        
-        
 }
 #kam{
     font-size: 50px;
@@ -88,7 +86,8 @@ font-family: 'Yeseva One', cursive;
  
 }
 .owl{
-    margin-right: 250px;
+    margin-right: 270px;
+    margin-top: 100px;
 }
 .sfox{
     display: flex;
@@ -96,16 +95,47 @@ font-family: 'Yeseva One', cursive;
     margin-top: 50px;
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
-    
-
 }
 #jam{
-    padding-top: 35px;
+    padding-top: 20px;
     padding-left: 120px;
     margin-top: 20px;
 }
 #sam img{
     width: 65%;
     margin-left: 50px;
+}
+#fam{
+    text-align: center;
+}
+.smagpie{
+    display: flex;
+    width: 60%  40%;
+}
+#lam{
+    color: crimson;
+}
+#cam img{
+    width:600px ;
+}
+#cam{
+    border: 15px  solid cyan ;
 
+    border-radius: 20px;
+}
+#owesome{
+    margin:100px;
+
+}
+footer{
+    background-color: black;
+    margin-top: 200px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.baffalo{
+    text-align: center;
+}
+.zebra{
+    color: blueviolet;
 }
