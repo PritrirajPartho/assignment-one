@@ -47,25 +47,21 @@ font-family: 'Yeseva One', cursive;
     margin-right: .5cm;
     padding:  .5cm;
     border-radius: 20px;
-
 }
 .rat{
     background-color: rgb(33, 194, 186);
     margin-right: .5cm;
     padding:  .5cm;
     border-radius:20px;
-
 }
 .cow{
     background-color: rgb(222, 226, 184);
     margin-right: .5cm;
     padding:  .5cm;
     border-radius:20px;
-
 }
 .monkey img{
         width: 60%;
-
 }
 .rat img{
         width:60%;
@@ -81,9 +77,6 @@ font-family: 'Yeseva One', cursive;
 }
 .ant img{
     width: 70%;
-}
-.ant{
- 
 }
 .owl{
     margin-right: 270px;
@@ -120,12 +113,10 @@ font-family: 'Yeseva One', cursive;
 }
 #cam{
     border: 15px  solid cyan ;
-
     border-radius: 20px;
 }
 #owesome{
     margin:100px;
-
 }
 footer{
     background-color: black;
