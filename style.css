@@ -20,6 +20,8 @@ font-family: 'Yeseva One', cursive;
 }
 #kam{
     font-size: 50px;
+    border-left: 5px solid  coral;
+    padding-left: 10px;
 }
 .cat{
     text-decoration: none;
@@ -76,12 +78,14 @@ font-family: 'Yeseva One', cursive;
 .spider{
     display: flex;
     width: 30%  70%;
+    background-repeat: no-repeat;
+    background-position: left;
 }
 .ant img{
     width: 70%;
 }
 .ant{
-
+ 
 }
 .owl{
     margin-right: 250px;
@@ -89,10 +93,19 @@ font-family: 'Yeseva One', cursive;
 .sfox{
     display: flex;
     width: 60%  40%;
-    margin-top: 70px;
+    margin-top: 50px;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    
 
 }
+#jam{
+    padding-top: 35px;
+    padding-left: 120px;
+    margin-top: 20px;
+}
 #sam img{
-    width: 50%;
-    margin-left: 100px;
+    width: 65%;
+    margin-left: 50px;
+
 }
