@@ -6,7 +6,7 @@ font-family: 'Yeseva One', cursive;
 #mam{
     color: coral;
 }
-.lion{
+.slion{
     display: flex;
     padding-bottom: 0%;
 }
@@ -27,6 +27,7 @@ font-family: 'Yeseva One', cursive;
     padding: 10px 20px;
     border-radius: 10px;
     font-size: 20px;
+
 }
 .dog{
     color: white;
@@ -38,6 +39,60 @@ font-family: 'Yeseva One', cursive;
 #bam{
     color: coral;
 }
-.bear{
+.sbear{
     display: flex;
+}
+.monkey{
+    background-color: cornflowerblue;
+    margin-right: .5cm;
+    padding:  .5cm;
+    border-radius: 20px;
+
+}
+.rat{
+    background-color: rgb(33, 194, 186);
+    margin-right: .5cm;
+    padding:  .5cm;
+    border-radius:20px;
+
+}
+.cow{
+    background-color: rgb(222, 226, 184);
+    margin-right: .5cm;
+    padding:  .5cm;
+    border-radius:20px;
+
+}
+.monkey img{
+        width: 60%;
+
+}
+.rat img{
+        width:60%;
+}
+.cow img{
+        width:60%;
+}
+.spider{
+    display: flex;
+    width: 30%  70%;
+}
+.ant img{
+    width: 70%;
+}
+.ant{
+
+}
+.owl{
+    margin-right: 250px;
+}
+.sfox{
+    display: flex;
+    width: 60%  40%;
+    margin-top: 70px;
+
+}
+#sam img{
+    width: 50%;
+    margin-left: 100px;
 }
